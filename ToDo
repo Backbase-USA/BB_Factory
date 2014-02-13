@@ -1,0 +1,24 @@
+Layout Uploader:
+
+Generate Template Skeleton
+Upload Template
+	- Upload .zip with assets in it 
+		index.html
+		appropriate files (js/css/image assets)
+
+Add user fields to the equation
+	Template Name
+	Bundle Name
+	Author
+	Description
+	Icon (can choose from list)
+	Device type (mixed, desktop, tablet, mobile)
+	Portal target (css selector)
+
+Process the template
+	- Break up the template client side
+		- HEAD information broken up and placed in one file.
+		- Body template broken out and placed in another file.
+
+Register the template
+	- Add the appropriate 
